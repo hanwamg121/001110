@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/servlet-api.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bcmail-jdk15on-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bcpg-jdk15on-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bcpkix-jdk15on-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bcprov-jdk12-140.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bcprov-jdk15on-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/bctest-jdk15on-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/commons-lang-2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/FontBox-0.1.0-dev.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/jce-jdk13-147.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/je-analysis-1.5.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/jtidy-r938.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-core-2.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-highlighter-2.4.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-queryparser-4.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/PDFBox-0.7.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-3.7 .jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-ooxml-3.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-ooxml-schemas-3.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-scratchpad-3.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/swt.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/TopSearch/lib/xmlbeans-2.3.0.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/commons-io-2.5.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/commons-math3-3.6.1.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpclient-4.5.3.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpcore-4.4.6.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpmime-4.5.3.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/jcl-over-slf4j-1.7.7.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/noggit-0.8.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/slf4j-api-1.7.7.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/stax2-api-3.1.4.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/woodstox-core-asl-4.4.1.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solrj-lib/zookeeper-3.4.10.jar!/" />
+    <libelement value="jar://D:/solr/solr-7.1.0/dist/solr-solrj-7.1.0.jar!/" />
+    <conelement value="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/WebRoot/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.47-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebRoot/WEB-INF/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcmail-jdk15on-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bcmail-jdk15on-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcpg-jdk15on-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bcpg-jdk15on-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcpkix-jdk15on-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bcpkix-jdk15on-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk12-140.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bcprov-jdk12-140.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk15on-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bcprov-jdk15on-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bctest-jdk15on-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/bctest-jdk15on-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/commons-lang-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="FontBox-0.1.0-dev.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/FontBox-0.1.0-dev.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jce-jdk13-147.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/jce-jdk13-147.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="je-analysis-1.5.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/je-analysis-1.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtidy-r938.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/jtidy-r938.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-core-2.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-core-2.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-highlighter-2.4.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-highlighter-2.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-queryparser-4.2.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/lucene-queryparser-4.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.7-bin.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PDFBox-0.7.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/PDFBox-0.7.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.7 .jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-3.7 .jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-3.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-ooxml-3.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas-3.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-ooxml-schemas-3.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-scratchpad-3.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/poi-scratchpad-3.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swt.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/swt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans-2.3.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/TopSearch/lib/xmlbeans-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.5.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/commons-io-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3-3.6.1.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/commons-math3-3.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpclient-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.6.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpcore-4.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/httpmime-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcl-over-slf4j-1.7.7.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/jcl-over-slf4j-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="noggit-0.8.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/noggit-0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.7.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/slf4j-api-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax2-api-3.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/stax2-api-3.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woodstox-core-asl-4.4.1.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/woodstox-core-asl-4.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zookeeper-3.4.10.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solrj-lib/zookeeper-3.4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="solr-solrj-7.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/solr/solr-7.1.0/dist/solr-solrj-7.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

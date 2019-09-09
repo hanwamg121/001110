@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bcmail-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bcpg-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bcpkix-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bcprov-jdk12-140.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bcprov-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/bctest-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/FontBox-0.1.0-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/jce-jdk13-147.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/je-analysis-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/lucene-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/lucene-highlighter-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/lucene-queryparser-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/poi-3.7 .jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/poi-ooxml-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/poi-ooxml-schemas-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/poi-scratchpad-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/TopSearch/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/noggit-0.8.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solrj-lib/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="lib" path="D:/solr/solr-7.1.0/dist/solr-solrj-7.1.0.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
